@@ -7,12 +7,12 @@ h1 {
     text-align: center;
   }
 .assign {
-      display: flec;
+      display: flex;
       padding: 10px;
       margin: 10px;
       background: [gray];
 }
 .assign img {
-    width:200px;
+    width: 200px;
     padding: 10px;
 }
