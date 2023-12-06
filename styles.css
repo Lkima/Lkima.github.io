@@ -8,15 +8,25 @@ body {
     padding: 10px;
     margin: 10px;
     background: white;
+    border-radius:5px;
 }
 
 .assignment img {
     width: 200px;
-    padding: 10px;
+    margin: 10px;
+    border:4px solid;
+}
+
+.assignment img:hover {
+    border:4px dashed
 }
 
 h1 {
     color: whitesmoke;
     text-align: center;
+}
+
+h1:hover {
+    color: brown;
 }
 
